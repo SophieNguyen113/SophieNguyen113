@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sophie+Nguyen+🌻;I'm+a+Computer+Science+student+@+Georgia+State+University.;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sophie+Nguyen+🌻+Nice+to+meet+you!)](https://git.io/typing-svg)
 
 # <a href="https://github.com/Hudson-Pufferfish"><img src="https://emoji.gg/assets/emoji/8519-babykoala.png" width="64px" height="64px" alt="BabyKoala"></a> How do you do? I’m Sophie Nguyen 🌻 
 
@@ -66,10 +66,6 @@
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>
 </span>
 &nbsp;
-<span>
-<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3 logo"  title="SQLite3" height="25"/>
-</span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
 &nbsp;
 
@@ -127,7 +123,7 @@
 <hr>
 
 
-## Contact me 🐡🐡🐡
+## Contact me 🌻
 
 <br>
 <div align="center">
