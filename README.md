@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Sophie+Nguyen.+🌻)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you!+🌻)](https://git.io/typing-svg)
 
 # <a href="https://github.com/SophieNguyen113"><img src="https://i.pinimg.com/736x/64/97/ed/6497edd324beb344da0f396a3d95404e.jpg" width="64px" height="64px" alt="BabyKoala"></a> How do you do? I’m Sophie Nguyen 🌻 
