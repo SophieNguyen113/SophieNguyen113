@@ -5,7 +5,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 Labs Intern @ CodeDay Labs || Software Developer @ Google Developer Student Club || CS @ GSU || Full Stack Web Dev
+💻 SWE Intern @ CodeDay Labs || DEV @ Google Developer Student Club || CS @ GSU || Full Stack Web Dev
 
 <hr>
 
