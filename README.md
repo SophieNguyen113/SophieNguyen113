@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
 
 <div style="position: left;">
-  <img src="Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat" width="600px" height="400px" style="position: absolute; top: 0; right: 10;">
+  <img src="Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat" width="600px" height="400px" style="position: absolute; left: 50px;">
 </div>
 
 
