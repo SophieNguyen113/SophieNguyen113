@@ -1,6 +1,3 @@
-
-<img src="Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
-
 # <a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Sophie Nguyen 🌻 
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
