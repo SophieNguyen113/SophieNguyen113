@@ -1,4 +1,4 @@
-# <a href="https://github.com/SophieNguyen113"><img src="Sophie%20Nguyen%20-%20CatCat.gif" width="300px" height="200px" alt="CatCat"></a> How do you do? I’m Sophie Nguyen 🌻 
+# <a href="https://github.com/SophieNguyen113"><img src="Sophie%20Nguyen%20-%20CatCat.gif" width="500px" height="200px" alt="CatCat"></a> How do you do? I’m Sophie Nguyen 🌻 
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
