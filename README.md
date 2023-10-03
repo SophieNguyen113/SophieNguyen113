@@ -9,7 +9,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 SWE Intern @ CodeDay Labs || DEV @ Google Developer Student Club || CS @ GSU || Full Stack Web Dev
+💻 SWE Mentee @ LFX Mentorship || SWE Intern @ Vietnam Tech Society || CS @ GSU || Full Stack Web Dev
 
 <hr>
 
