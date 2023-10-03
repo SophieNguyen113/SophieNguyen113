@@ -1,6 +1,5 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="Sophie%20Nguyen%20-%20CatCat.gif">
-</a>
+
+<img src="Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
 
 # <a href="https://github.com/SophieNguyen113"><img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Sophie Nguyen 🌻 
 
