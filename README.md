@@ -14,7 +14,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 SWE Mentee @ LFX Mentorship || SWE Intern @ Vietnam Tech Society || CS @ GSU || Full Stack Web Dev
+💻 Apple Pathways Alliance Scholar '24 || Prev SWE Intern @ LFX Mentorship & Vietnam Tech Society '23 || CS @ GSU || Full Stack Web Dev
 
 <hr>
 
