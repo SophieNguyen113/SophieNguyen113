@@ -3,18 +3,18 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=How%20do%20you%20do?&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=35" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=How%20do%20you%20do?;I'm%20Sophie%20Nguyen%20🌻&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=35" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Sophie%20Nguyen%20🌻%20;Software%20Engineer%20Intern%20at%20CNCF-Thanos;Apple%20Pathways%20Alliance%20Scholar%20🍎&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20Intern%20at%20CodeDay%2oLabs;Mentee%20at%20LinkedIn%20and%20Amazon&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 Apple Pathways Alliance Scholar '24 || Prev SWE Intern @ LFX Mentorship & Vietnam Tech Society '23 || CS @ GSU || Full Stack Web Dev
+💻 SWE Intern @ CodeDay Labs || Mentee @ LinkedIn & Amazon || Scholar @ CodePath E3 & Apple Pathways Alliance || Prev SWE Intern @ Vietnam Tech Society || CS @ GSU || Full Stack Web Dev
 
 <hr>
 
