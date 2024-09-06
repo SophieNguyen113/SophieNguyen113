@@ -14,7 +14,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 SWE Intern @ CodeDay Labs || Mentee @ LinkedIn & Amazon || Scholar @ CodePath E3 & Apple Pathways Alliance || Prev SWE Intern @ Vietnam Tech Society || CS @ GSU || Full Stack Web Dev
+💻 Prev SWE Intern @ CodeDay Labs || Mentee @ LinkedIn & Amazon || Scholar @ CodePath E3 & Apple Pathways Alliance || CS @ GSU || Full Stack Web Dev
 
 <hr>
 
