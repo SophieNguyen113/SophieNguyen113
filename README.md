@@ -2,12 +2,12 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=true&width=440&height=45&lines=How+do+you+do%3F+I'm+Sophie+Nguyen+🌻" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=true&width=440&height=45&lines=How+do+you+do%3F+I'm+Sophie+Nguyen" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=true&width=600&height=45&lines=Prev+Software+Engineer+Intern+%40+Microsoft+🌻" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&random=true&width=600&height=45&lines=Prev+Software+Engineer+Intern+%40+Microsoft" alt="Typing SVG" /></a>
 </p>
 
 🙋‍♂️ Thank you for visiting my GitHub profile!
