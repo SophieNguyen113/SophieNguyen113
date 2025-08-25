@@ -12,7 +12,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile!
 
-💻 Prev SWE Intern @ Microsoft & CodeDay Labs || CS @ GSU || Full Stack Web Dev 🌻
+💻 SWE Fellow @ GDGC GSU || Prev SWE Intern @ Microsoft & CodeDay Labs || Honors CS @ GSU || Full Stack Web Dev 🌻
 
 <hr>
 
