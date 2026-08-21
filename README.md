@@ -1,10 +1,5 @@
 # <a href="https://github.com/SophieNguyen113"><img src="Sophie%20Nguyen%20-%20CatCat.gif" alt="CatCat"></a>
 
-<!-- <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&multiline=true&width=1150&height=200&lines=%F0%9F%8C%BB+SWE+Fellow+%40+GDGC+GSU+%F0%9F%8C%BB;%F0%9F%8C%BB+Prev+SWE+Intern+%40+Microsoft+%26+CodeDay+Labs+%F0%9F%8C%BB;%F0%9F%8C%BB+Honors+CS+%40+GSU+%F0%9F%8C%BB+Full+Stack+Web+Dev+%F0%9F%8C%BB" alt="Typing SVG" /></a>
-</p> -->
-
 🙋‍♂️ Thank you for visiting my GitHub profile!
 
 💻 2× Microsoft SWE Intern | Honors CS @ GSU | Full-Stack Developer | Turning Ideas into Products 🌻✨
@@ -130,9 +125,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
-  </a>
-  <a href="mailto:sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
   </a>
 </div>
 
