@@ -5,9 +5,13 @@
 💻 2× Microsoft SWE Intern | Honors CS @ GSU | Full-Stack Developer | Turning Ideas into Products 🌻🔥✨💫
 
 ✨🌻 How do you do? I’m Sophie 🌻✨
+
 ✨🌻 I’m a curious builder who loves learning, creating, and taking on new challenges 🌻✨
+
 ✨🌻 My motto: Learn from yesterday, live for today, and hope for tomorrow 🌻✨
+
 ✨🌻 Never give up and just keep swimming 🌻✨
+
 🌻🔥✨💫 William's 💫✨🔥🌻
 
 <hr>
